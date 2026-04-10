@@ -1,50 +1,11 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![Image 1](./docs/z7710592738642_92b4e9797edfaf995276bb051359885c.jpg)
+![Image 2](./docs/z7710592747576_c45ef4ebcae3f22e5b52554e72d546f0.jpg)
+![Image 3](./docs/z7710592749111_1306dffc20180b893462ff9ffd70c6e0.jpg)
+![Image 4](./docs/z7710592791896_c79c67b855838a061ec20d666d26bcff.jpg)
+![Image 5](./docs/z7710592795853_f8c40c87cf09ebf41ab0f7fc4d6ca99f.jpg)
+![Image 6](./docs/z7710592800253_6930d44300a8b83e55cd663a85812a78.jpg)
+![Image 7](./docs/z7710592800384_8a618610547dc97c97fd43863224815d.jpg)
+![Image 8](./docs/z7710592809905_33495f24026fb1f698b213c199fb35cd.jpg)
+![Image 9](./docs/z7710592813628_1c225561ca5ef4a22deaeac957d372e7.jpg)
+![Image 10](./docs/z7710592838615_0e19cdc172da1fbfd543890e5d63baa8.jpg)
+![Image 11](./docs/z7710592852000_4bb7eb5975e8f00800977c5e3dd6f207.jpg)
